@@ -3,4 +3,4 @@
 
 Compiled by [`Jagzph`](https://github.com/jagzph/)
 
-Visit my blog [`http://jagzph.blogspot.com`](http://jagzph.blogspot.com)
+Visit my blog [`http://jagzph.blogspot.com/`](http://jagzph.blogspot.com/)
